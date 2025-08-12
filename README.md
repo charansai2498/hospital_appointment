@@ -11,3 +11,7 @@ Admin panel for managing all data
 Backend-Django(python)
 Database-MySQL(can be switched to SQLite/PostegreSQL)
 Fronted-HTML templates, django template language(DTL)
+#Installation 
+'''bash
+git clone
+https://github.com/charansai2498/hospital_appointment
